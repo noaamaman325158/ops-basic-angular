@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  url: 'https://ec2-stage.noaamaman.com/api'
+  url: 'http://13.49.224.241:8080/api'
 };
